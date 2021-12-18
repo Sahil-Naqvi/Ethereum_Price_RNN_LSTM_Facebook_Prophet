@@ -40,6 +40,7 @@ TESTING ON TEST DATA 2 (FROM 01/04/2020 TILL 31/06/2020)
 ![image](https://user-images.githubusercontent.com/87114918/146646709-279d91ed-6561-4fb9-8fc6-6cb3f1280abf.png)
 
 **SUMMARY**
+
 There are many machine learning approaches that we can use for the task of predicting the future prices of Ethereum. In this Project, I introduced you to how you can predict the future prices of Ethereum by using the RNN and LSTM in Python. And I did try Facebook Prophet Model but unable to get anything out of it. I hope you liked this project on how to predict the future prices of Ethereum with RNN and LSTM using Python. 
 Here, I found that the Root mean squared error of LSTM is slightly lower than that of RNN and on the other hand the predicted price value of Ethereum almost converges to that of Real price of Ethereum. As per the evidence we can conclude that LSTM performs better than RNN.
 The Root mean square error of RNN was found to be 18 and LSTM was approx. 16.
