@@ -3,6 +3,7 @@
 Ethereum is the reason for the recent drop in bitcoin prices. The price of Ethereum is currently very cheap compared to bitcoin, but some financial experts, including Tesla’s CEO Elon Musk, claiming that we will see a rise in the price of Ethereum soon. So, the question is how to predict the future prices of Ethereum, this small project throws some light on how to predict the price of Ethereum with the help of RNN and LSTM. In this small project report, I will walk you through the task of Ethereum Price Prediction with Deep Learning using Python.
 
 **ETHEREUM PRICE PREDICTION**
+
 Predicting the price of a cryptocurrency is a regression problem. Bitcoin is one of the most successful examples of cryptocurrency, but we recently saw a major drop in bitcoin prices due to Ethereum. Unlike bitcoin, Ethereum is very cheap right now, but financial experts are predicting that we may see a major increase in Ethereum prices.
 There are many machine learning approaches that we can use for the task of Ethereum price prediction. You can train a machine learning model, or you can also use an already available powerful model like the Facebook Prophet Model. But in the section below, I will be using the Deep Learning approach using RNN and LSTM  for the task of Ethereum price prediction and, I try experimenting one machine learning approach that is a powerful model named as Facebook Prophet Model.
 
@@ -15,7 +16,7 @@ Similarly, we can plot for “Close” Column of Ethereum and see how it is beha
 
 ![image](https://user-images.githubusercontent.com/87114918/146646620-7920b10a-22cd-4791-a945-46a011ceeb8c.png)
 
-**BUILDING RNN MODEL**
+**RESULT OF RNN MODEL**
 
 TESTING ON TEST DATA 1 (FROM 01/01/2020 TILL 31/03/2020)
 
@@ -25,7 +26,7 @@ TESTING ON TEST DATA 2 (FROM 01/04/2020 TILL 31/06/2020)
 
 ![image](https://user-images.githubusercontent.com/87114918/146646641-e5da00ec-6bc6-4199-b41a-16fc0198d5a4.png)
 
-**BUILDING LSTM MODEL **
+**RESULT OF LSTM MODEL **
 
 TESTING ON TEST DATA 1 (FROM 01/01/2020 TILL 31/03/2020)
 
@@ -35,7 +36,7 @@ TESTING ON TEST DATA 2 (FROM 01/04/2020 TILL 31/06/2020)
 
 ![image](https://user-images.githubusercontent.com/87114918/146646682-026c73b8-f2ec-431d-99b6-72251789acd5.png)
 
-**BUILDING FACEBOOK PROPHET MODEL **
+**RESULT FACEBOOK PROPHET MODEL **
 
 ![image](https://user-images.githubusercontent.com/87114918/146646709-279d91ed-6561-4fb9-8fc6-6cb3f1280abf.png)
 
