@@ -18,21 +18,21 @@ Similarly, we can plot for “Close” Column of Ethereum and see how it is beha
 
 **RESULT OF RNN MODEL**
 
-TESTING ON TEST DATA 1 (FROM 01/01/2020 TILL 31/03/2020)
+**TESTING ON TEST DATA 1 (FROM 01/01/2020 TILL 31/03/2020)**
 
 ![image](https://user-images.githubusercontent.com/87114918/146646632-5ac221aa-9980-49e1-907a-fb6a78655bb3.png)
 
-TESTING ON TEST DATA 2 (FROM 01/04/2020 TILL 31/06/2020)
+**TESTING ON TEST DATA 2 (FROM 01/04/2020 TILL 31/06/2020)**
 
 ![image](https://user-images.githubusercontent.com/87114918/146646641-e5da00ec-6bc6-4199-b41a-16fc0198d5a4.png)
 
 **RESULT OF LSTM MODEL **
 
-TESTING ON TEST DATA 1 (FROM 01/01/2020 TILL 31/03/2020)
+**TESTING ON TEST DATA 1 (FROM 01/01/2020 TILL 31/03/2020)**
 
 ![image](https://user-images.githubusercontent.com/87114918/146646674-4d91783c-f776-4719-98bc-620b5cda519b.png)
 
-TESTING ON TEST DATA 2 (FROM 01/04/2020 TILL 31/06/2020)
+**TESTING ON TEST DATA 2 (FROM 01/04/2020 TILL 31/06/2020)**
 
 ![image](https://user-images.githubusercontent.com/87114918/146646682-026c73b8-f2ec-431d-99b6-72251789acd5.png)
 
